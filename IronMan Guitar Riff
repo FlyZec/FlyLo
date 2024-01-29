@@ -2,12 +2,12 @@
   Melody
 
  Plays Main Guitar Riff from "IronMan" by BlackSabbath
- Link to Guitar Riff example:    https://youtube.com/shorts/m9GU4DN9v2Y?si=m3LS2xfTlNXmUS90
- Link to Visual Example : https://www.youtube.com/shorts/eyJYXCvUl1A
- This code utilizes a template used
-This example code is in the public domain.
+ Link to Original Song:         https://www.youtube.com/watch?v=F01UTYg79KY
+ Link to Guitar Riff example:   https://youtube.com/shorts/m9GU4DN9v2Y?si=m3LS2xfTlNXmUS90
+ Link to Visual Example :       https://www.youtube.com/shorts/eyJYXCvUl1A
 
- http://www.arduino.cc/en/Tutorial/Tone
+with help from:
+http://www.arduino.cc/en/Tutorial/Tone
  http://www.tinkercad.com
  */
 
